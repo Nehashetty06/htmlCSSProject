@@ -1,1 +1,1 @@
-Demo website created using HTML & CSS
+Demo webpage created using HTML & CSS
